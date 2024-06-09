@@ -1,39 +1,40 @@
-Striker: Cade
-Defender: Oakley
-Striker: Quinlan
-Defender: Briar
-Striker: Joab
-Defender: Denil
-Striker: Kaiden
-Defender: Harper
-Striker: Broderick
-Defender: Teagan
-Striker: Kyler
-Defender: Aspen
-Striker: Malachi
-Defender: Cameron
-Striker: Benson
-Defender: Peyton
-Striker: Maxim
-Defender: Ariel
-Striker: Kadeem
-Defender: Dakota
-Striker: Keegan
-Defender: Taylor
-Striker: Deandre
-Defender: Kelly
-Striker: Kai
-Defender: Remy
-Striker: Cassius
-Defender: Charlie
-Striker: Deshawn
-Defender: Reagan
-Striker: Malik
-Defender: Kendall
-Striker: Kingston
-Defender: Frankie
-Striker: Tobias
-Defender: Drew
-Striker: Lionel
-Defender: Sage
-
+Striker: Erling Haaland
+Defender: Virgil van Dijk
+Striker: Harry Kane
+Defender: Kalidou Koulibaly
+Striker: Robert Lewandowski
+Defender: Raphael Varane
+Striker: Karim Benzema 
+Defender: Sergio Ramos
+Striker: Kylian Mbappé
+Defender: Matthijs de Ligt
+Striker: Romelu Lukaku
+Defender: Aymeric Laporte
+Striker: Lionel Messi
+Defender: Giorgio Chiellini
+Striker: Cristiano Ronaldo
+Defender: Thiago Silva
+Striker: Mohamed Salah
+Defender: Andrew Robertson
+Striker: Sadio Mané
+Defender: Trent Alexander-Arnold
+Striker: Neymar Jr
+Defender: Marquinhos
+Striker: Pierre-Emerick Aubameyang  
+Defender: Ben Chilwell
+Striker: Timo Werner
+Defender: Cesar Azpilicueta
+Striker: Antoine Griezman 
+Defender: Gerard Piqué
+Striker: Zlatan Ibrahimović
+Defender: Leonardo Bonucci
+Striker: Marcus Rashford
+Defender: Harry Maguire 
+Striker: Raheem Sterling  
+Defender: John Stones
+Striker: Edinson Cavani  
+Defender: Luke Shaw
+Striker: Paulo Dybala
+Defender: Dani Carvajal
+Striker: Gabriel Jesus
+Defender: José Giménez
